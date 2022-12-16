@@ -11,12 +11,5 @@ public class Asteroid  extends Actor
      */
     public void act() 
     {
-        int xpos = getX() + 1;
-        if (xpos >= getWorld().getWidth()) {
-            getWorld().removeObject(this);
-        }
-        else {
-            setLocation(xpos, getY());
-        }
     }    
 }

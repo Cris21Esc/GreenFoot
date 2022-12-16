@@ -1,7 +1,9 @@
 #BlueJ class context
 comment0.target=Rocket
-comment0.text=\n\ A\ Space\ ship\ which\ shoots\ at\ asteroids.\n\ \n\ @author\ Davin\ McCall\n
+comment0.text=\r\n\ A\ Space\ ship\ which\ shoots\ at\ asteroids.\r\n\ \r\n\ @author\ Davin\ McCall\r\n
 comment1.params=
-comment1.target=void\ act()
-comment1.text=\n\ Act\ -\ do\ whatever\ the\ Ship\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
-numComments=2
+comment1.target=Rocket()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Ship\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
